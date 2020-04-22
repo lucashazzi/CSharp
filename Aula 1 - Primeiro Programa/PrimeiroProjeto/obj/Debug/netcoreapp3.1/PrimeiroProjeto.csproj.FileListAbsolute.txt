@@ -1,0 +1,11 @@
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.exe
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.deps.json
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.json
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\lucas\Documents\CSharp\Aula 1 - Primeiro Programa\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
