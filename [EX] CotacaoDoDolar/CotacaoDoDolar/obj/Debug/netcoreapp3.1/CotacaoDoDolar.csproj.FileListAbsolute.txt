@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\netcoreapp3.1\CotacaoDoDolar.exe
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\netcoreapp3.1\CotacaoDoDolar.deps.json
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\netcoreapp3.1\CotacaoDoDolar.runtimeconfig.json
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\netcoreapp3.1\CotacaoDoDolar.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\netcoreapp3.1\CotacaoDoDolar.dll
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\netcoreapp3.1\CotacaoDoDolar.pdb
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\netcoreapp3.1\CotacaoDoDolar.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\netcoreapp3.1\CotacaoDoDolar.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\netcoreapp3.1\CotacaoDoDolar.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\netcoreapp3.1\CotacaoDoDolar.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\netcoreapp3.1\CotacaoDoDolar.dll
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\netcoreapp3.1\CotacaoDoDolar.pdb
+C:\Users\lucas\source\repos\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\netcoreapp3.1\CotacaoDoDolar.genruntimeconfig.cache

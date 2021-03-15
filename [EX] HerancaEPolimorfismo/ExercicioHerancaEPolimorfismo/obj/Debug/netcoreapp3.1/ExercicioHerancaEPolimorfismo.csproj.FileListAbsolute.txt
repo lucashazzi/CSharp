@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.exe
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.deps.json
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.runtimeconfig.json
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.dll
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.pdb
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.dll
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.pdb
+C:\Users\lucas\source\repos\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\netcoreapp3.1\ExercicioHerancaEPolimorfismo.genruntimeconfig.cache

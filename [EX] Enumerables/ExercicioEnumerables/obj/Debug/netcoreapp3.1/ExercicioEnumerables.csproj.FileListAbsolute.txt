@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\bin\Debug\netcoreapp3.1\ExercicioEnumerables.exe
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\bin\Debug\netcoreapp3.1\ExercicioEnumerables.deps.json
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\bin\Debug\netcoreapp3.1\ExercicioEnumerables.runtimeconfig.json
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\bin\Debug\netcoreapp3.1\ExercicioEnumerables.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\bin\Debug\netcoreapp3.1\ExercicioEnumerables.dll
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\bin\Debug\netcoreapp3.1\ExercicioEnumerables.pdb
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\obj\Debug\netcoreapp3.1\ExercicioEnumerables.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\obj\Debug\netcoreapp3.1\ExercicioEnumerables.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\obj\Debug\netcoreapp3.1\ExercicioEnumerables.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\obj\Debug\netcoreapp3.1\ExercicioEnumerables.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\obj\Debug\netcoreapp3.1\ExercicioEnumerables.dll
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\obj\Debug\netcoreapp3.1\ExercicioEnumerables.pdb
+C:\Users\lucas\source\repos\ExercicioEnumerables\ExercicioEnumerables\obj\Debug\netcoreapp3.1\ExercicioEnumerables.genruntimeconfig.cache

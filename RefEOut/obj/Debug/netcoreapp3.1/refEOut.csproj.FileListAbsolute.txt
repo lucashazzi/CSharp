@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\RefEOut\refEOut\bin\Debug\netcoreapp3.1\refEOut.exe
+C:\Users\lucas\source\repos\RefEOut\refEOut\bin\Debug\netcoreapp3.1\refEOut.deps.json
+C:\Users\lucas\source\repos\RefEOut\refEOut\bin\Debug\netcoreapp3.1\refEOut.runtimeconfig.json
+C:\Users\lucas\source\repos\RefEOut\refEOut\bin\Debug\netcoreapp3.1\refEOut.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\RefEOut\refEOut\bin\Debug\netcoreapp3.1\refEOut.dll
+C:\Users\lucas\source\repos\RefEOut\refEOut\bin\Debug\netcoreapp3.1\refEOut.pdb
+C:\Users\lucas\source\repos\RefEOut\refEOut\obj\Debug\netcoreapp3.1\refEOut.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\RefEOut\refEOut\obj\Debug\netcoreapp3.1\refEOut.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\RefEOut\refEOut\obj\Debug\netcoreapp3.1\refEOut.AssemblyInfo.cs
+C:\Users\lucas\source\repos\RefEOut\refEOut\obj\Debug\netcoreapp3.1\refEOut.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\RefEOut\refEOut\obj\Debug\netcoreapp3.1\refEOut.dll
+C:\Users\lucas\source\repos\RefEOut\refEOut\obj\Debug\netcoreapp3.1\refEOut.pdb
+C:\Users\lucas\source\repos\RefEOut\refEOut\obj\Debug\netcoreapp3.1\refEOut.genruntimeconfig.cache
