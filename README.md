@@ -1,2 +1,2 @@
 # CSharp
-Repository For CSharp Projects (used to learn Git too).
+Repository For CSharp Projects (it's used to learn Git too).
