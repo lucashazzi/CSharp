@@ -1,0 +1,13 @@
+C:\Users\lucas\source\repos\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.exe
+C:\Users\lucas\source\repos\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.deps.json
+C:\Users\lucas\source\repos\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.runtimeconfig.json
+C:\Users\lucas\source\repos\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.dll
+C:\Users\lucas\source\repos\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.pdb
+C:\Users\lucas\source\repos\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.AssemblyInfo.cs
+C:\Users\lucas\source\repos\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.dll
+C:\Users\lucas\source\repos\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.pdb
+C:\Users\lucas\source\repos\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.genruntimeconfig.cache
